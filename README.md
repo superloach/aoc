@@ -6,6 +6,7 @@ i already know python, so im starting with this. easy peasy.
 
 ## 2016 - go
 i also know go, but doing data stuff in it is a bit more verbose.
+
 also opens up the opportunity to solve problems concurrently!
 
 ## 2017 - rust
