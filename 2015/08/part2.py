@@ -1,5 +1,6 @@
 import part1
 
+# copied and simplified from https://mail.python.org/pipermail/python-list/2003-April/236940.html
 qrepr = lambda s: (
 	'"%s"' % repr(
 		s.replace('@', '@@').
